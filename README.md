@@ -18,6 +18,11 @@ Open [http://localhost:3000](http://localhost:3000) for TODOS and USERS fatched 
 http://localhost:3000/posts for updating through json-server in local<br/>
 http://localhost:3000/todos with input field <br/>
 
+http://localhost:3001/posts <br/>
+http://localhost:3001/todos <br/>
+http://localhost:3001/comments <br/>
+http://localhost:3001/profile <br/>
+
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
