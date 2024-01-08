@@ -15,7 +15,7 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-http://localhost:3000/posts 
+http://localhost:3000/posts <br/>
 http://localhost:3000/users
 http://localhost:3000/todos
 
