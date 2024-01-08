@@ -14,10 +14,9 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.<br />
-http://localhost:3000/posts <br/>
-http://localhost:3001/users <br/>
-http://localhost:3000/todos <br/>
+Open [http://localhost:3000](http://localhost:3000) for TODOS and USERS fatched from jsonplaceholder.<br />
+http://localhost:3000/posts for updating through json-server in local<br/>
+http://localhost:3000/todos with input field <br/>
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
